@@ -9,6 +9,7 @@ vendor/bundle/
 # Ignore bundler config.
 /.bundle
 /vendor
+memo.md
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
